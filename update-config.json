@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.0",
-  "minimum_required_version": "1.0.0",
   "message": "Esta atualização contém mudanças importantes e é necessária para continuar usando a Nivora Detail.",
+  "latest_version": "1.0.1",
+  "minimum_required_version": "1.0.0",
   "force_update": true
 }
