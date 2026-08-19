@@ -1,6 +1,6 @@
 {
-  "message": "Esta atualização contém mudanças importantes de segurança e é necessária para continuar usando a Nivora Detail.",
-  "latest_version": "1.0.5",
+  "message": "A versão 1.1.0 adiciona melhorias importantes de segurança, conta e presença em tempo real.",
+  "latest_version": "1.1.0",
   "minimum_required_version": "1.0.2",
   "force_update": true
 }
