@@ -1,6 +1,6 @@
 {
-  "message": "A versão 1.1.1 corrige o resultado das decisões e restringe controles de segurança ao Líder.",
-  "latest_version": "1.1.1",
+  "message": "A versão 1.1.2 faz a Nivora Detail iniciar automaticamente maximizada.",
+  "latest_version": "1.1.2",
   "minimum_required_version": "1.0.2",
   "force_update": true
 }
